@@ -1,0 +1,8 @@
+#Jupyter notebook backups
+.ipynb_checkpoints/*
+
+#Node setup logs
+node_attackerNDNsetup.txt
+node_consumerNDNsetup.txt
+node_producerNDNsetup.txt
+node_router1NDNsetup.txt
