@@ -15,3 +15,8 @@ Organized by lhuan130@asu.edu
 Code and designs not by me are cited in the included report document, [NACdemo_NDNcontentSecurity.pdf](NACdemo_NDNcontentSecurity.pdf).
 
 Created for 2024Fall-CSE534.
+
+### Predecessor Projects
+
+- [NDN in FABRIC](https://github.com/initialguess/fabric-ndn)
+- [FABRIC NAC](https://github.com/agaouett/fabric_nac)
