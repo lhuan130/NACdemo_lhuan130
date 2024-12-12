@@ -24,3 +24,5 @@ while True:
     #TODO handle request
     listenConnection.close()
     print("Connection %d done."%(i))
+
+#NOTE: issues on FABRIC nodes with connectivity in socket configs render this script unused and incomplete.

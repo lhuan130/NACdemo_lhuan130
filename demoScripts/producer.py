@@ -12,7 +12,8 @@ contentTxt = "".join(fileAction.readlines())
 fileAction.close()
 encryptedContent = cryptorModule.encrypt(contentTxt.encode())
 print("CONTENT ENCRYPTED ON PRODUCER")
-#print(encryptedContent)
+print(encryptedContent)
+print()
 
 #Saved encrypted content
 f = open("contentEncrypted", 'wb')

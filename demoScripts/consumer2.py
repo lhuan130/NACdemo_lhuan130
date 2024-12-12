@@ -6,7 +6,8 @@
 #Run subprocess to generate new RSA keypair for use as consumer key pair
 import rsa
 consumerPublicKey, consumerPrivateKey = rsa.newkeys(2048)
-print("CONSUMER KEY PAIR GENERATED\n%s\n%s"%(consumerPublicKey, consumerPrivateKey))
+print("CONSUMER KEY PAIR GENERATED")
+#print("%s\n%s"%(consumerPublicKey, consumerPrivateKey))
 
 #convert keys into byte files
 consumerPublicKey = consumerPublicKey.save_pkcs1()
