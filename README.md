@@ -2,14 +2,16 @@
 
 ## Summary
 
-Demonstrating the key handling of group keys as described in NAC for the NDN architecture.
-Performed on the FABRIC testbed using Python scripts to simulate NDN nodes, given the compatibility and resource requirements of existing NDN implementations.
+Demonstrating the handling and interactions required for group keys as described in NAC for the NDN architecture, with some corners cut for design and time reasons.
+
+Performed on the FABRIC testbed using Python scripts alongside the JuPyter server hub for FABRIC to simulate NDN nodes.
 
 Also contains a notebook with an incomplete attempt at performing the above exchange using NDN-DPDK.
 The difficulty of configuring and debugging NDN-DPDK on FABRIC at this time means it is currently not functional.
 
 ## Academic Details
 
-Organized by [LH](lhuan130@asu.edu). Some code used is cited in the included report document.
+Organized by lhuan130@asu.edu
+Code and designs not by me are cited in the included report document, [NACdemo_NDNcontentSecurity.pdf](NACdemo_NDNcontentSecurity.pdf).
 
 Created for 2024Fall-CSE534.
