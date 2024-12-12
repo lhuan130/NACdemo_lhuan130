@@ -1,0 +1,5 @@
+If you can read this message, there are two possibilities.
+  1. Either you're currently accessing it through the producer node,
+  2. Or you've successfully performed the demo.
+  3. You're viewing it in the repo.
+If 2, great job!
